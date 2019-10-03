@@ -17,3 +17,16 @@
 # V. Esthetics
 
   The Esthetics of this game will involve nice calming hues for the backgrounds and buttons that are abstract and simplistic enough so that they will provide an appropriate backdrop to whatever picture is uploaded.
+
+# VI. Gameplay
+
+	## Mechanics
+	The player can upload a photo from their own files, select one from a predefined static game library, or possibly paste one in using a URL. Once they start, the image will be divided into squares and the pieces’ randomly scrambled and rotated. The player can then try to match the pieces together in order to restore the original picture.
+
+	## Control
+	The players will use the mouse to pick up, by left-clicking, a fragment and drag it over to a piece they believe it connects to. After dropping it, by left-clicking, the pieces will connect into one piece if they match or will both turn red for a second if they don’t. If the user thinks they need to rotate the piece by ninty degrees to make it fit, they can do so by right-clicking or by pressing the ‘r’ key.
+ 	## Teaching The Game
+	Most players will be familiar with jigsaw puzzles, and other than learning the specific digital controls (which can be re/viewed by clicking a ‘controls’ button at any point while playing) will not need any extra explanation on how to complete the game. For players that do need those instructions, however, a button called ‘instructions’ will be on the menu page the player will see before starting the game. This button will pull up rules explaining how to play this game. This button mechanic will allow new players to learn at their own pace and let familiar players bypass the explanation altogether if they choose. 
+
+	## Player Learning
+	There isn’t too much depth to this game. Much like other simple puzzles (such as jigsaw puzzles or sodoku), the same strategies can be used over and over again since the number of divisions and random rotation of pieces is the only thing that changes. Players may find personal strategies to help them complete the puzzles faster but other than that there’s not much else that can be used/learned. 
