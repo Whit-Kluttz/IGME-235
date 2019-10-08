@@ -32,5 +32,14 @@
 ## Player Learning
   There isn’t too much depth to this game. Much like other simple puzzles (such as jigsaw puzzles or sodoku), the same strategies can be used over and over again since the number of divisions and random rotation of pieces is the only thing that changes. Players may find personal strategies to help them complete the puzzles faster but other than that there’s not much else that can be used/learned. 
   
+# VII. Pictures
+![Game Mockup 1](PuzzleGridMockup1.png)
+A mockup of the menu for the game
+
+![Game Mockup 2](PuzzleGridMockup2.png)
+A mockup of the website's game state
+
+
+
 # VIII. About The Developer
 Whitney Kluttz is a second year game design and development major at Rochester Institute of Technology. His interests includes working on team projects and designing game mechanics and narrative for games.
